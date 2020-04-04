@@ -1,2 +1,2 @@
-# Math_in_ML
+# M
 Source code and Notebook for Math in Machine Leaning
